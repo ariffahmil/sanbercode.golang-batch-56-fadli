@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Fadli Arif Fahmil Ulum
+2. Email: fadliariffahmilulum@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: ariffahmil
+5. Akun Telegram: Fadli Arif Fahmil Ulum
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : MAHASISWA
+7. Umur: 19 tahun
+8. Pernah menggunakan Go? : Belum pernah
+9. Bahasa Pemrograman yg pernah dipelajari: Html, Css, Pascal, Java
+10. Pernah membuat REST API? : Belum pernah
